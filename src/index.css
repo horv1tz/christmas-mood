@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    color: #ffffff;
+}
+
+body {
+    background-color: #102e0b;
+}
+
+.clock-block {
+    background-color: #25aa13;
+}
